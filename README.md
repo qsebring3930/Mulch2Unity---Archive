@@ -1,1 +1,3 @@
 # Mulch2Unity
+
+This repo has been archived has the .gitignore file was not implemented properly and the repository became severely bloated. Pleasce check the qsebring3930/Mulch2Unity repository for the current working directory
